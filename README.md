@@ -10,4 +10,3 @@ Fir example
 | cool   |  looc  |
 
 
-# reverse-string
